@@ -37,7 +37,7 @@
 [![Experimental Features](https://img.shields.io/badge/Experimental%20Features-No-green)](https://img.shields.io/badge/Experimental%20Features-No-green)
 [![On-Premises Connectors](https://img.shields.io/badge/On--Premises%20Connectors-No-green)](hhttps://img.shields.io/badge/On--Premises%20Connectors-No-green)
 [![Custom Connectors](https://img.shields.io/badge/Custom%20Connectors-No-green)](hhttps://img.shields.io/badge/Custom%20Connectors-No-green)
-[![MS Power Automate](https://img.shields.io/badge/MS%20Power%20Automate-Two-green)](https://powerautomate.microsoft.com/en-us/)
+
 
 ---
 
